@@ -1,7 +1,7 @@
 # 💬 PulseChat
 
 Connect instantly. Chat seamlessly. Communicate in real time.
-PulseChat is a scalable real-time chat application built with modern web technologies, enabling seamless communication through low-latency messaging, secure authentication, and a highly customizable user experience. Designed with performance, scalability, and responsiveness in mind, PulseChat delivers an engaging messaging platform for modern users. ([GitHub][1])
+PulseChat is a scalable real-time chat application built with modern web technologies, enabling seamless communication through low-latency messaging, secure authentication, and a highly customizable user experience. Designed with performance, scalability, and responsiveness in mind, PulseChat delivers an engaging messaging platform for modern users.
 
 ## 🌐 Live Demo
 
