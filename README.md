@@ -268,5 +268,5 @@ git push origin feature/new-feature
 
 **Harsh Munjal**
 
-* GitHub: [harshmunjal20 GitHub Profile](https://github.com/harshmunjal20?utm_source=chatgpt.com)
-* Repository: [PulseChat Repository](https://github.com/harshmunjal20/PulseChat?utm_source=chatgpt.com)
+* GitHub: [harshmunjal20 GitHub Profile](https://github.com/harshmunjal20)
+* Repository: [PulseChat Repository](https://github.com/harshmunjal20/PulseChat)
