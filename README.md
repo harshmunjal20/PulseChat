@@ -49,8 +49,6 @@ Try PulseChat live:
 
 ## 📸 Screenshots
 
-Add screenshots for:
-
 * Login Page
   <img width="1907" height="902" alt="image" src="https://github.com/user-attachments/assets/fcab688e-24b7-48bc-be54-9301a60cc981" />
   
@@ -63,7 +61,6 @@ Add screenshots for:
 * Customisable Themes 
   <img width="1887" height="907" alt="Screenshot 2026-06-09 201355" src="https://github.com/user-attachments/assets/515184cc-420c-454b-ba3b-22ae45e44ac6" />
 
-
 ---
 
 ## 🏗️ Tech Stack
@@ -72,8 +69,8 @@ Add screenshots for:
 
 * React.js
 * Tailwind CSS
-* Axios
-* Context API / Redux Toolkit
+* Daisy UI
+* Zustand
 
 ### Backend
 
@@ -83,7 +80,6 @@ Add screenshots for:
 ### Database
 
 * MongoDB
-* Mongoose
 
 ### Authentication
 
