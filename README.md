@@ -264,12 +264,6 @@ git push origin feature/new-feature
 
 ---
 
-## 📄 License
-
-Licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Harsh Munjal**
